@@ -5,7 +5,6 @@ set incsearch
 set surround
 map Q gq
 set easymotion
-set relativenumber
 set clipboard+=unnamed
 set ignorecase
 set smartcase
