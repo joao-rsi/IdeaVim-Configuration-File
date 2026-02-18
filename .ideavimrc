@@ -28,7 +28,9 @@ map <Leader>zc <action>(ActivateCommitToolWindow)
 map <Leader>zp <action>(ActivateProjectToolWindow)
 map <Leader>zg <action>(ActivateVersionControlToolWindow)
 map <Leader>zr <action>(ActivateRunToolWindow)
+map <Leader>za <action>(ActivateAIAssistantToolWindow)
 
 
 map gc <action>(CommentByLineComment)
 map gC <action>(CommentByBlockComment
+nnoremap <leader>r :action RenameElement<CR>
