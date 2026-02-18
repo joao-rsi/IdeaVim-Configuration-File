@@ -29,7 +29,6 @@ map <Leader>zp <action>(ActivateProjectToolWindow)
 map <Leader>zg <action>(ActivateVersionControlToolWindow)
 map <Leader>zr <action>(ActivateRunToolWindow)
 map <Leader>za <action>(ActivateAIAssistantToolWindow)
-map <Leader>zn <action>(NewAIChat)
 
 
 map gc <action>(CommentByLineComment)
